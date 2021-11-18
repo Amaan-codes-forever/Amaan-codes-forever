@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AMAANULLAH
-- 👀 I’m interested in cybersecurtiy,web development,blockchain concepts
+- 👀 I’m interested in cybersecurity,web development,blockchain concepts
 - 🌱 I’m currently pursuing my masters in computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me out by mail => cyberpunkgames1999@gmail.com
